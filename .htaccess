@@ -1,0 +1,3 @@
+RedirectMatch 301 ^/pages/html-emails\.html/?$ /
+RedirectMatch 301 ^/index\.html/?$ /
+ErrorDocument 404 /
